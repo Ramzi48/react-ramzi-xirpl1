@@ -10,7 +10,7 @@
     width: 400px;
     height: 300px;
     display: inline-block;
-    background-image: url('src/assets/img/search engine.jpg');
+    background-image: url('https://img.freepik.com/free-vector/web-search-concept_52683-63900.jpg?t=st=1725379448~exp=1725383048~hmac=d87f49000862ecd212b261f0bee23b42dee2c887bbf024de05ef562b1bd920ef&w=740');
     background-size: cover;
     transition: transform 0.5s ease;
     box-shadow: 0.5s ease;
@@ -88,7 +88,7 @@ h2 {
     height: 300px;
     margin-top: 50px;
     display: inline-block;
-    background-image: url('src/assets/img/operating system.jpg');
+    background-image: url('https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149379500.jpg?t=st=1725379260~exp=1725382860~hmac=6c06f198f2efa4de72370d09935db45fc6905cb2e4c91372e6e2070333703011&w=740');
     background-size: cover;
     transition: transform 0.5s ease;
     box-shadow: 0.5s ease;
