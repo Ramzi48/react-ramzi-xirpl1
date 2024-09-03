@@ -43,30 +43,30 @@ const Content = () => {
         <h2>Contoh Search Engine :</h2>
         <div className="search">
           <div className="google">
-            <img src="src/assets/img/google.jpg" alt="" />
+            <img src="./src/assets/img/google.jpg" alt="" />
             <h3>Google</h3>
           </div>
           <div className="bing">
-            <img src="src/assets/img/Bing.jpg" alt="" />
+            <img src="./src/assets/img/Bing.jpg" alt="" />
             <h3>Bing</h3>
           </div>
           <div className="yahoo">
-            <img src="src/assets/img/Yahoo.jpg" alt="" />
+            <img src="./src/assets/img/Yahoo.jpg" alt="" />
             <h3>Yahoo</h3>
           </div>
         </div>
         <h2>Contoh Operating System :</h2>
         <div className="os">
           <div className="windows">
-            <img src="src/assets/img/Windows.jpg" alt="" />
+            <img src="./src/assets/img/Windows.jpg" alt="" />
             <h3>Microsoft Windows</h3>
           </div>
           <div className="macos">
-            <img src="src/assets/img/MacOS.jpg" alt="" />
+            <img src="./src/assets/img/MacOS.jpg" alt="" />
             <h3>MacOS</h3>
           </div>
           <div className="linux">
-            <img src="src/assets/img/Linux.jpg" alt="" />
+            <img src="./src/assets/img/Linux.jpg" alt="" />
             <h3>Linux</h3>
           </div>
         </div>
