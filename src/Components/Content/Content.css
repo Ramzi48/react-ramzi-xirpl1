@@ -10,7 +10,7 @@
     width: 400px;
     height: 300px;
     display: inline-block;
-    background-image: url('/public/images/search\ engine.jpg');
+    background-image: url('src/assets/img/search engine.jpg');
     background-size: cover;
     transition: transform 0.5s ease;
     box-shadow: 0.5s ease;
@@ -88,7 +88,7 @@ h2 {
     height: 300px;
     margin-top: 50px;
     display: inline-block;
-    background-image: url('/public/images/operating\ system.jpg');
+    background-image: url('src/assets/img/operating system.jpg');
     background-size: cover;
     transition: transform 0.5s ease;
     box-shadow: 0.5s ease;
